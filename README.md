@@ -2,7 +2,9 @@
 
 ## Profile
 
-Security researcher and low-level software engineer focused on reverse engineering and malware analysis. Experience centers on software-hardware interaction, memory management, and CPU instruction sets. Focus is deconstructing binaries and understanding low-level system behavior to identify vulnerabilities and analyze malicious software.
+Applied Computing graduate focused on reverse engineering, malware analysis, and low-level software development.
+
+Current interests include binary analysis, x86 assembly, operating system internals, memory management, and vulnerability research.
 
 ---
 
@@ -14,20 +16,32 @@ Security researcher and low-level software engineer focused on reverse engineeri
 
 ---
 
-## Technical Environment
+## Technical Skills
 
-### Operating Systems & Environment
+### Reverse Engineering
+- Ghidra
+- Binary Ninja
+- EDB Debugger
+- Static Analysis
+- Dynamic Analysis
+- x86 Assembly
 
-* **Host OS:** CachyOS (KDE Plasma)
-* **Package Management:** `pacman`, `paru`
-* **Shells:** Fish, Bash
+### Programming
+- C
+- Python
 
-### Toolchain & Analysis Software
+### Operating Systems
+- Linux
+- REMnux
+- Kali Linux
 
-* **Disassemblers & Debuggers:** Ghidra, edb-debugger, objdump
-* **Analysis Environments:** REMnux , Kali
-* **Network Analysis:** Wireshark
-* **Development:** Neovim
+## Current Research Areas
+
+- Reverse Engineering
+- Windows Internals
+- Malware Analysis
+- Memory Corruption
+- Binary Exploitation
 
 ---
 
@@ -35,7 +49,7 @@ Security researcher and low-level software engineer focused on reverse engineeri
 
 *   **C and Assembly:** C Programming a Modern Approach and The Art of x86 Assembly **
 *   **Linux Internals:** How Linux Works What Every Super User Should Know by Brian Ward **
-*   **Reverse Engineering:** Reverse Engineering for Beginners by D Yurichev **  
+*   **Reverse Engineering:** Reverse Engineering for Beginners by D Yurichev and Practical Reverse Engineering**  
 
 
 ### How to Reach Me
