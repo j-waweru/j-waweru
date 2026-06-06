@@ -45,10 +45,14 @@ Current interests include binary analysis, x86 assembly, operating system intern
 
 ---
 
+### Projects
+
+[Dvwa walkthrough](https://github.com/j-waweru/CyberSecLearning.git) - My notes as I went through the Damn Vulnerable Web App 
+[reverse-engineering-lab](https://github.com/j-waweru/reverse-engineering-lab.git) - crackmes ,personal notes , writeups.
+
 ### 📬 Currently learning
 
 *   **C and Assembly:** C Programming a Modern Approach and The Art of x86 Assembly **
-*   **Linux Internals:** How Linux Works What Every Super User Should Know by Brian Ward **
 *   **Reverse Engineering:** Reverse Engineering for Beginners by D Yurichev and Practical Reverse Engineering**  
 
 
