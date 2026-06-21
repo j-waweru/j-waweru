@@ -2,21 +2,18 @@
 
 ## Profile
 
-Applied Computing graduate from KCA University focused on reverse engineering, vulnerability research, and penetration testing.
+Applied Computing graduate from KCA University focused on ethical hacking, vulnerability research, and penetration testing.
 
-Hands-on experience analyzing compiled binaries and web application security flaws. Strong interest in low-level software internals, x86 assembly, operating systems, and attack/defense security techniques.
+Hands-on experience analyzing web application security flaws. 
 
-Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, PortSwigger Web Security Academy, and independent reverse engineering labs.
+Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, PortSwigger Web Security Academy.
 
 ---
 
 ## Technical Focus
 
 * **Vulnerability Research & Pentesting:** Web app security, enumeration, exploitation basics, and attack surface analysis in lab environments
-* **Reverse Engineering & Malware Analysis:** Static and dynamic analysis of binaries to understand behavior, detect obfuscation, and extract logic from unknown executables
 * * **Systems Security:** OS internals, process behavior, memory management, and exploitation fundamentals
-* **Low-Level Systems Development:** System level programming in C and assembly-level.
-
 ---
 
 ## Technical Skills
@@ -30,18 +27,11 @@ Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, Por
 * TryHackMe (Junior Pentesting Path)
 * Basic exploitation methodology
 
-### Reverse Engineering & Malware Analysis
-
-* Static Analysis in Ghidra and Binary Ninja
-* Dynamic Analysis in EDB Debugger
-* x86 and ARM Assembly
-* Crackme analysis
-
 ### Programming
 
 * C ,Python
 * Git & GitHub
-* Neovim and VsCodium
+* Neovim and VsCode
 
 ### Operating Systems & Tools
 
@@ -64,10 +54,7 @@ Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, Por
 
 ## Currently Learning
 
-* Reverse Engineering for Beginners – Dennis Yurichev
-* Practical Reverse Engineering (Dang, Gazet, Bachaalany)
 * PortSwigger Web Security Academy (web exploitation training)
-* Windows internals
 ---
 
 ## How to Reach Me
