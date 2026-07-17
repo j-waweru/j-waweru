@@ -8,6 +8,8 @@ Hands-on experience analyzing web application security flaws.
 
 Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, PortSwigger Web Security Academy.
 
+Low-level / Systems Programming Enthusiast.
+
 ---
 
 ## Technical Focus
@@ -55,12 +57,12 @@ Building practical skills through crackmes, CTF challenges, DVWA, TryHackMe, Por
 ## Currently Learning
 
 * PortSwigger Web Security Academy (web exploitation training)
+* Reverse Engineering for Begineers (Denis Yurichev)
 ---
 
 ## How to Reach Me
 
 * GitHub: [https://github.com/j-waweru/](https://github.com/j-waweru/)
-* LinkedIn: [https://www.linkedin.com/in/joseph-waweru--](https://www.linkedin.com/in/joseph-waweru--)
 * Email: [jwaweruw@proton.me](mailto:jwaweruw@proton.me)
 
 ---
